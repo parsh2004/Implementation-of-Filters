@@ -149,26 +149,33 @@ plt.axis("off")
 
 i) Using Averaging Filter
 ![p1](https://user-images.githubusercontent.com/95388047/230787527-b19fba5d-59e3-483a-a65e-1dcb398d5369.png)
+
 ![p2](https://user-images.githubusercontent.com/95388047/230787551-125d4458-b99e-4730-ac5a-0bd450403fbd.png)
 
 
 ii) Using Weighted Averaging Filter
 
+![Uploading p3.png…]()
+
 iii) Using Gaussian Filter
+
 ![p4](https://user-images.githubusercontent.com/95388047/230787599-0f2afc56-da55-422c-92d5-0fe8f53c97ce.png)
 
 
 iv) Using Median Filter
 
+![p5](https://user-images.githubusercontent.com/95388047/230788374-50f72f46-394e-4ee0-ad76-1043c0f0b2e7.png)
 
 ### 2. Sharpening Filters
 
 
 i) Using Laplacian Kernal
 
+![p6](https://user-images.githubusercontent.com/95388047/230788391-c99c862e-85f8-42af-8b4f-3e6611d97b76.png)
 
 
 ii) Using Laplacian Operator
+
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
