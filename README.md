@@ -155,7 +155,7 @@ i) Using Averaging Filter
 
 ii) Using Weighted Averaging Filter
 
-![Uploading p3.png…]()
+
 
 iii) Using Gaussian Filter
 
