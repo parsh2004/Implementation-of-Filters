@@ -175,6 +175,7 @@ i) Using Laplacian Kernal
 
 
 ii) Using Laplacian Operator
+
 ![WhatsApp Image 2023-04-09 at 11 44 33 PM](https://user-images.githubusercontent.com/95388047/230789575-3f400ad2-5e40-4405-99b2-c623e89e4216.jpeg)
 
 ## Result:
